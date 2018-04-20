@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>Hello, Hexo</title>
+      <link href="/2018/04/12/test/"/>
+      <url>/2018/04/12/test/</url>
+      <content type="html"><![CDATA[<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><p>改用Hexo了</p>]]></content>
+      
+      <categories>
+          
+          <category> about </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> new </tag>
+            
+            <tag> about </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
